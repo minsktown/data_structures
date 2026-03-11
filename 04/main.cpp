@@ -4,7 +4,6 @@
 int main()
 {
 	test_arraylist();
-
 	return 0;
 }
 
